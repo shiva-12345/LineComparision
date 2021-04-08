@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace Line_comparision
+namespace LineComparison
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("line problems");
+            Console.WriteLine("Wellcome To Line Comparison Computation Program!");
+            CartesianSystem.lengthOFLine();
         }
     }
 }
